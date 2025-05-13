@@ -78,6 +78,7 @@ future==1.0.0
 futures==3.4.0
 google-api-python-client==1.5.5
 google-auth==2.18.1
+google_measurement_protocol==0.1.2
 gprof2dot==2017.9.19
 hashids==1.3.1
 html5lib==0.9999999
