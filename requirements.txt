@@ -5,7 +5,7 @@ appnope==0.1.3
 asn1crypto==1.5.1
 astroid==1.6.6
 attrs==21.4.0
-awscli==1.18.196
+awscli==1.19.112
 Babel==2.9.1
 backports-abc==0.5
 backports.csv==1.0.7
@@ -17,7 +17,7 @@ billiard==3.6.4.0
 bleach==1.5.0
 boto==2.46.1
 boto3==1.17.112
-botocore==1.19.36
+botocore==1.20.112
 cachetools==3.1.1
 cattrs==1.0.0
 cchardet==2.1.7
@@ -80,7 +80,8 @@ google-api-python-client==1.5.5
 google-auth==2.18.1
 gprof2dot==2017.9.19
 hashids==1.3.1
-html5lib==1.0b3
+html5lib==0.9999999
+htmlib==0.1
 httplib2==0.22.0
 icalendar==4.0.7
 idna==2.10
@@ -99,6 +100,7 @@ kombu==4.4.0
 lazy-object-proxy==1.6.0
 linecache2==1.0.0
 loremipsum==1.0.5
+lxml==5.0.2
 mail-parser==3.14.0
 MarkupPy==1.14
 mccabe==0.6.1
@@ -113,6 +115,7 @@ oauth2client==4.1.3
 oauthlib==3.1.0
 odfpy==1.4.1
 openpyxl==2.6.4
+packaging==20.9
 paramiko==2.12.0
 pathlib==1.0.1
 pathlib2==2.3.7.post1
@@ -130,7 +133,7 @@ prompt-toolkit==1.0.18
 protobuf==3.17.3
 psutil==5.9.1
 ptyprocess==0.7.0
-pyasn1==0.4.5
+pyasn1==0.4.6
 pyasn1-modules==0.3.0
 pycparser==2.21
 pycrypto==2.6.1
@@ -162,9 +165,11 @@ requests-file==2.1.0
 requests-oauthlib==1.3.1
 rjsmin==1.1.0
 rsa==4.5
-s3transfer==0.3.7
+s3transfer==0.4.2
 scandir==1.10.0
 scantree==0.0.1
+scikit-learn==0.20.4
+scipy==1.2.3
 selenium==3.141.0
 sendgrid==2.2.1
 sendgrid-django==2.0.0
@@ -199,6 +204,7 @@ uWSGI==2.0.19
 uwsgitop==0.11
 vine==1.3.0
 wcwidth==0.2.13
+webencodings==0.5.1
 wrapt==1.15.0
 xlrd==2.0.1
 XlsxWriter==1.0.0
